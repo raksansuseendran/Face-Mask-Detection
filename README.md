@@ -2,15 +2,22 @@
 
 Synopsis:
 • Built an image classification algorithm which classifies images having faces with and without mask.
+
 • Created a model that detects face mask trained on 1775 images with 3 color channels (RGB).
+
 • On Custom CNN architecture Model training accuracy reached 94%.
 
 Implementation steps:
 • Installing Dependencies
+
 • Importing Datasets
+
 • Data preprocessing
+
 • Data Normalization
+
 • Train-test splitting
+
 • Classification - CNN
 
 Dataset link:
