@@ -2,6 +2,7 @@
 
 
 Synopsis:
+----------
 
 • Built an image classification algorithm which classifies images having faces with and without mask.
 
@@ -11,6 +12,7 @@ Synopsis:
 
 
 Implementation steps:
+----------------------
 
 • Installing Dependencies
 
@@ -25,9 +27,12 @@ Implementation steps:
 • Classification - CNN
 
 Dataset link:
+--------------
+
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 Sample Input and Output:
+----------
 
 ![image](https://user-images.githubusercontent.com/98756460/236657490-21808433-1156-4e07-8001-e72388edeb50.png)
 
